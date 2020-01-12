@@ -7,6 +7,7 @@ Below are the links to all the learning journals:
 - [Lab01b ](https://sisidjidji.github.io/lab1/)
 - [Read01 ](https://sisidjidji.github.io/Read01/)
 - [Read02 ](https://sisidjidji.github.io/Read02/)
+- [Read03 ](https://sisidjidji.github.io/Read03/)
 
 
 
