@@ -8,6 +8,8 @@ Below are the links to all the learning journals:
 - [Read01 ](https://sisidjidji.github.io/Read01/)
 - [Read02 ](https://sisidjidji.github.io/Read02/)
 - [Read03 ](https://sisidjidji.github.io/Read03/)
+- [Read04 ](https://sisidjidji.github.io/Read04/)
+
 
 
 
